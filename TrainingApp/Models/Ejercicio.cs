@@ -1,0 +1,16 @@
+﻿namespace TrainingApp.Models
+{
+    public class Ejercicio
+    {
+        public int Id { get; set; } 
+        public string? Nombre { get; set; }
+        public float Kilogramo { get; set; }
+        public int Series {  get; set; }
+        public int Repeticiones { get; set; }
+
+        public int RutinaId { get; set; }   
+
+        public Rutina? Rutina { get; set; }  
+
+    }
+}
