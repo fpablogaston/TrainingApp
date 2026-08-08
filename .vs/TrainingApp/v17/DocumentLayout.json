@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fpabl\\source\\repos\\TrainingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|c:\\users\\fpabl\\source\\repos\\trainingapp\\trainingapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|solutionrelative:trainingapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|c:\\users\\fpabl\\source\\repos\\trainingapp\\trainingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|solutionrelative:trainingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|c:\\users\\fpabl\\source\\repos\\trainingapp\\trainingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|solutionrelative:trainingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|c:\\users\\fpabl\\source\\repos\\trainingapp\\trainingapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7EE11057-5BE6-46B9-8464-315B353B32EC}|TrainingApp\\TrainingApp.csproj|solutionrelative:trainingapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\repos\\TrainingApp\\TrainingApp\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\repos\\TrainingApp\\TrainingApp\\Program.cs",
+              "RelativeToolTip": "TrainingApp\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T00:26:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\fpabl\\source\\repos\\TrainingApp\\TrainingApp\\Dockerfile",
               "RelativeDocumentMoniker": "TrainingApp\\Dockerfile",
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "TrainingApp\\appsettings.json",
               "ToolTip": "C:\\Users\\fpabl\\source\\repos\\TrainingApp\\TrainingApp\\appsettings.json",
               "RelativeToolTip": "TrainingApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-07T20:15:20.981Z",
               "EditorCaption": ""
