@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Identity.Client;
 using TrainingApp.Data;
 using TrainingApp.DTOs;
 using TrainingApp.Models;
